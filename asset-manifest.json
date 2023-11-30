@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ID-card/static/css/main.34812d7c.css",
+    "main.js": "/ID-card/static/js/main.5cecec2e.js",
+    "static/js/787.917857b7.chunk.js": "/ID-card/static/js/787.917857b7.chunk.js",
+    "index.html": "/ID-card/index.html",
+    "main.34812d7c.css.map": "/ID-card/static/css/main.34812d7c.css.map",
+    "main.5cecec2e.js.map": "/ID-card/static/js/main.5cecec2e.js.map",
+    "787.917857b7.chunk.js.map": "/ID-card/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34812d7c.css",
+    "static/js/main.5cecec2e.js"
+  ]
+}
